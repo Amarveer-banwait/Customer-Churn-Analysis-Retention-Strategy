@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis-Retention
+# Telco Customer Churn Analysis
 # Project Overview
 Customer churn is a major business concern for telecom companies because acquiring a new customer is often more expensive than retaining an existing one. This project analyzes customer-level telecom data to identify churn patterns, understand the factors associated with customer exits, and provide recommendations that can help improve customer retention.
 
